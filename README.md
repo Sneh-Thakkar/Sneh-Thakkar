@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sneh
+- 👀 I’m interested in MERN, NextJs, Prisma, Next-auth, Socket.io, TypeScript, 
+- 🌱 I’m currently learning How to implement AI in Project
+- 💞️ I’m looking to collaborate on MERN, NextJs, Prisma, Next-auth,
+- 📫 How to reach me snehthakkar19@gmail.com
